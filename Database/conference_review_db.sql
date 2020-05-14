@@ -209,8 +209,8 @@ CREATE TABLE `review` (
 LOCK TABLES `review` WRITE;
 /*!40000 ALTER TABLE `review` DISABLE KEYS */;
 INSERT INTO `review` VALUES 
-(1,1,1,'NA',NULL,'Good work',8,9,8,9,1,'2020-04-08 22:24:38','2020-04-08 22:24:38',NULL),
-(2,1,5,'NA',NULL,'Excellent',7,8,8,8,1,'2020-04-08 22:24:38','2020-04-08 22:24:38',NULL),
+(1,1,1,'I recommend it for publication.',NULL,'Good work',8,9,8,9,1,'2020-04-08 22:24:38','2020-04-08 22:24:38',NULL),
+(2,1,5,'I recommend it for publication.',NULL,'Excellent',7,8,8,8,1,'2020-04-08 22:24:38','2020-04-08 22:24:38',NULL),
 (3,2,2,'Too much descriptive',NULL,'This can be done in a better way, but overall work is good and useful',5,6,7,7,1,'2020-04-08 22:24:38','2020-04-08 22:24:38',NULL),
 (4,2,6,'Scope of work should be well defined',NULL,NULL,6,6,6,6,1,'2020-04-08 22:24:38','2020-04-08 22:24:38',NULL),
 (5,3,2,'NA',NULL,'Excellent',8,8,7,8,1,'2020-04-08 22:24:38','2020-04-08 22:24:38',NULL),
