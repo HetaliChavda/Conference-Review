@@ -4,7 +4,7 @@ Database Management Systems (Spring 2020) - Project Assignment - Implementation 
 -------------------------------------------------------------------------------------------------------------
 
 *Technologies Used:* 
-- MySQL
+- MySQL, Java, JDBC Driver
 
 *Problem Statement:*
 
